@@ -1,7 +1,7 @@
 {
-   "Favorite movie": "Seven",
-   "Favorite serial": "Scrubs",
-   "Favorite food": "fruit",
-   "Favorite season": "spring",
+   "FavoriteMovie": "Seven",
+   "FavoriteSerial": "Scrubs",
+   "FavoriteFood": "fruit",
+   "FavoriteSeason": "spring",
    "Country": "Sweden"
 }
